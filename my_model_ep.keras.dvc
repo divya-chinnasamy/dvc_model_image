@@ -1,0 +1,5 @@
+outs:
+- md5: a22ea2fb807bd8182d6e8fcbbc259d9a
+  size: 231234180
+  hash: md5
+  path: my_model_ep.keras
